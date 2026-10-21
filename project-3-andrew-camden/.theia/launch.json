@@ -1,0 +1,38 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "project3",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "project3",
+                "resourceId": "/project3"
+            }
+        },
+        {
+            "name": "CCS Attach (1)",
+            "type": "ccs-debug",
+            "request": "launch",
+            "targetConfig": "/Users/ryana/Desktop/microcontrollers_eele465/project-5-andrew-ryan/mcu/targetConfigs/MSP430FR2153.ccxml"
+        },
+        {
+            "name": "CCS Attach (2)",
+            "type": "ccs-debug",
+            "request": "launch",
+            "targetConfig": "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/targetConfigs/MSP430FR2153.ccxml"
+        },
+        {
+            "name": "CCS Attach (3)",
+            "type": "ccs-debug",
+            "request": "launch",
+            "targetConfig": "/Users/ryana/Desktop/microcontrollers_eele465/project-6-andrew-ryan/keypad-controller/targetConfigs/MSP430FR2310.ccxml"
+        },
+        {
+            "name": "CCS Attach (4)",
+            "type": "ccs-debug",
+            "request": "launch",
+            "targetConfig": "/Users/ryana/Desktop/microcontrollers_eele465/project-6-andrew-ryan/main-controller/targetConfigs/MSP430FR2153.ccxml"
+        }
+    ]
+}

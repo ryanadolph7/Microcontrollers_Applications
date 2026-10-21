@@ -1,0 +1,9 @@
+[project]
+name = "mcu-interface"
+version = "0.1.0"
+description = "GUI to interface with MCU's UART communication protocol"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pyserial>=3.5",
+]

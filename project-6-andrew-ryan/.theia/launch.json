@@ -1,0 +1,16 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "project6-main-controller",
+      "type": "ccs-debug",
+      "request": "launch",
+      "projectInfo": {
+        "name": "project6-main-controller",
+        "resourceId": "/project6-main-controller"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+"./app.obj"
+"./i2c_controller.obj"
+"./led_bar.obj"
+"./led_patterns.obj"
+"./main.obj"
+"./rtc.obj"
+"./uart.obj"
+"../lnk_msp430fr2153.cmd"
+-lfrwp_init.a
+-llibc.a

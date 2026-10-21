@@ -1,0 +1,10 @@
+AlignAfterOpenBracket: DontAlign
+BreakBeforeBraces: Allman
+IndentCaseLabels: true
+PointerAlignment: Right
+ReflowComments: true
+SpaceBeforeParens: ControlStatements
+AllowShortLoopsOnASingleLine: true
+ColumnLimit: 120
+IndentWidth: 4
+UseTab: Never

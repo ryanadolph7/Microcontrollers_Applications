@@ -1,0 +1,37 @@
+[
+   {
+      "directory" : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2040/ccs/ccs_base/msp430/include\" -I\"/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden\" -I\"/Applications/ti/ccs2040/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2153__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/app.c"
+   },
+   {
+      "directory" : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2040/ccs/ccs_base/msp430/include\" -I\"/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden\" -I\"/Applications/ti/ccs2040/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2153__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/i2c_controller.c"
+   },
+   {
+      "directory" : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2040/ccs/ccs_base/msp430/include\" -I\"/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden\" -I\"/Applications/ti/ccs2040/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2153__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/led_bar.c"
+   },
+   {
+      "directory" : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2040/ccs/ccs_base/msp430/include\" -I\"/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden\" -I\"/Applications/ti/ccs2040/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2153__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/led_patterns.c"
+   },
+   {
+      "directory" : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2040/ccs/ccs_base/msp430/include\" -I\"/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden\" -I\"/Applications/ti/ccs2040/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2153__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/main.c"
+   },
+   {
+      "directory" : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2040/ccs/ccs_base/msp430/include\" -I\"/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden\" -I\"/Applications/ti/ccs2040/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2153__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/rtc.c"
+   },
+   {
+      "directory" : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2040/ccs/ccs_base/msp430/include\" -I\"/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden\" -I\"/Applications/ti/ccs2040/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR2153__ -D_FRWP_ENABLE -D_INFO_FRWP_ENABLE -xc",
+      "file"      : "/Users/ryana/Desktop/microcontrollers_eele465/project-3-andrew-camden/uart.c"
+   }
+]
